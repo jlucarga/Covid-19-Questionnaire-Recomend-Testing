@@ -1,0 +1,9 @@
+We haven't implemented this in an android application yet, so for now the only things that are needed to is a python environment. 
+You need to have the kivy library installed.
+
+kivy
+kivymd
+kivy-deps.angle
+kivy-deps.glew
+kivy-deps.gstreamer
+kivy-deps.sdl2
