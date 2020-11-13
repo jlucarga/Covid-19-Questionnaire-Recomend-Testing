@@ -1,3 +1,5 @@
+#Author: John Miego
+#Date: 11/13/2020
 from kivymd.app import MDApp
 from kivy.uix.screenmanager import ScreenManager, Screen
 from kivy.lang import Builder
