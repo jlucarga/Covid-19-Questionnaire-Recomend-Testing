@@ -1,6 +1,7 @@
 # Auhtor: Miranda Humphreys
 # 11/11
 # Welcome Page, 1st page brought up when opening the app
+#1st Draft from Demo 1
 
 from kivy.app import App
 from kivy.uix.button import Button
